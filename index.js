@@ -51,6 +51,10 @@ function prependKitten(name)
 }
 
 
-function 
+function removeLastKitten()
+{
+  
+  
+}
 
 
