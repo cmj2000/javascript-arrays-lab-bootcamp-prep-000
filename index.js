@@ -59,7 +59,7 @@ function removeLastKitten()
 function removeFirstKitten()
 {
  var new_kittens = kittens
- new_kittens
+ new_kittens.shift()
  return new_kittens
   
 }
